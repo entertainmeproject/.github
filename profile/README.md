@@ -18,7 +18,7 @@ EntertainMe aims to minimize the resources needed to find suitable leisure activ
 6. A319D4KY4424 – Lorenzo Liunardo – Universitas Sumatera Utara - Mobile Development
 
 ## Important Repositories
-[Backend API Documentation](https://github.com/entertainmeproject/capstone-entertainme-backendapi)
+[Backend API & ML API Documentation](https://github.com/entertainmeproject/capstone-entertainme-backendapi)
 [Mobile Application Documentation](https://github.com/entertainmeproject/capstone-entertainme-mobiledevelopment)
 [Machine Learning Model Documentation](https://github.com/entertainmeproject/Machine-Learning-Model)
 <!--
