@@ -1,12 +1,15 @@
 # Capstone Project / C241-PS112 / EntertainMe
 
 ## Introduction
-In the 2023 World Happiness Report, Indonesia is ranked 84th out of 109 countries in terms of happiness. Around 47.23% of Indonesia's population feels unhappy. 
-At the Southeast Asian level, Indonesian people's happiness level is ranked sixth out of the nine countries studied. 
-According to the Global Change Data Lab survey and analysis of time use in 34 countries, one factor influencing people's happiness and life satisfaction is having enough time for leisure. 
-However, finding leisure activities that we like can become challenging and time-consuming. Time that should be used for leisure is instead used up looking for suitable entertainment. 
-So, how can we help people find suitable entertainment more quickly and precisely? <br />
-We introduce EntertainMe, an **application designed to help discover and schedule entertainment while providing tools to monitor stress levels.** 
+>[!NOTE]
+>In the 2023 World Happiness Report, Indonesia is ranked 84th out of 109 countries in terms of happiness. Around 47.23% of Indonesia's population feels unhappy. 
+>At the Southeast Asian level, Indonesian people's happiness level is ranked sixth out of the nine countries studied. 
+>According to the Global Change Data Lab survey and analysis of time use in 34 countries, one factor influencing people's happiness and life satisfaction is having enough time for leisure. 
+>However, finding leisure activities that we like can become challenging and time-consuming. Time that should be used for leisure is instead used up looking for suitable entertainment. 
+>So, how can we help people find suitable entertainment more quickly and precisely? <br />
+<br/>
+
+EntertainMe, is an **application designed to help discover and schedule entertainment while providing tools to monitor stress levels.**
 EntertainMe aims to minimize the resources needed to find suitable leisure activities by offering personalized recommendations to help users improve their well-being and life satisfaction.
 
 ## The People Behind EntertainMe
